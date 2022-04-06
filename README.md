@@ -8,7 +8,7 @@ Below are some of my personal web projects with links to the public repositories
 
 Complete with client-side form validation and styled with _Sass_.
 
-![Tip Calculator Preview](./images/tip-calculator-preview.jpg)
+[![Tip Calculator Preview](./images/tip-calculator-preview.jpg)](https://jordon-young.github.io/fem-tip-calculator/)
 
 Enter a bill amount, choose a tip percentage, and split the result with as many as 100 of your closest friends.
 
@@ -18,7 +18,7 @@ Enter a bill amount, choose a tip percentage, and split the result with as many 
 
 A responsive, grid-based, time-tracking dashboard.
 
-![Activity Tracker Preview](./images/activity-tracker-preview.jpg)
+[![Activity Tracker Preview](./images/activity-tracker-preview.jpg)](https://jordon-young.github.io/fem-activity-tracker/)
 
 Users may choose to view daily, weekly, or monthly activity totals. Activity data is pulled from a JSON file and inserted into the page.
 
@@ -28,7 +28,7 @@ Users may choose to view daily, weekly, or monthly activity totals. Activity dat
 
 Expanding/collapsing content with animated directional icons.
 
-![FAQ Accordion Card Preview](./images/faq-accordion-card-preview.jpg)
+[![FAQ Accordion Card Preview](./images/faq-accordion-card-preview.jpg)](https://jordon-young.github.io/fem-faq-accordion-card/)
 
 Perhaps more accurately referred to as drawers, in this project, only one section may be expanded at a time.
 
