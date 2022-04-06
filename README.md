@@ -1,10 +1,8 @@
 # :wave: Hi, I'm Jordon
 
-> ### I'm a **Web Developer** and **IT Problem Solver** for small businesses and non-profits.
+I'm a **Web Developer** and **IT Problem Solver** for small businesses and non-profits.
 
 Below are some of my personal web projects with links to the public repositories and live demos.
-
-<br>
 
 ## Tip Calculator
 
@@ -16,8 +14,6 @@ Enter a bill amount, choose a tip percentage, and split the result with as many 
 
 [Public Repository](https://github.com/jordon-young/fem-tip-calculator) | [Live Demo](https://jordon-young.github.io/fem-tip-calculator/)
 
-<br>
-
 ## Activity Tracker
 
 A responsive, grid-based, time-tracking dashboard.
@@ -27,8 +23,6 @@ A responsive, grid-based, time-tracking dashboard.
 Users may choose to view daily, weekly, or monthly activity totals. Activity data is pulled from a JSON file and inserted into the page.
 
 [Public Repository](https://github.com/jordon-young/fem-activity-tracker) | [Live Demo](https://jordon-young.github.io/fem-activity-tracker/)
-
-<br>
 
 ## FAQ Accordion Card
 
