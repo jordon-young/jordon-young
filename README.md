@@ -1,12 +1,12 @@
 # :wave: Hi, I'm Jordon
 
-I'm a **Web Developer** and **IT Problem Solver** for small businesses and non-profits.
+> ### I'm a **Web Developer** and **IT Problem Solver** for small businesses and non-profits.
 
 Below are some of my personal web projects with links to the public repositories and live demos.
 
 ## Tip Calculator
 
-Complete with client-side form validation and styled with _Sass_.
+HTML5 with JS for client-side form validation—styled with _Sass_.
 
 [![Tip Calculator Preview](./images/tip-calculator-preview.jpg)](https://jordon-young.github.io/fem-tip-calculator/)
 
