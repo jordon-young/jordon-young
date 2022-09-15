@@ -1,6 +1,6 @@
 # :wave: Hi, I'm Jordon
 
-> ### I'm a **Web Developer** and **IT Problem Solver** for small businesses and non-profits.
+### I'm a **Web Developer** and **IT Problem Solver**
 
 Below are some of my personal web projects with links to the public repositories and live demos.
 
