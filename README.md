@@ -1,6 +1,6 @@
 ## Tip Calculator
 
-HTML5 with JS for client-side form validation—styled with _Sass_.
+HTML5 with JS for client-side form validation—styled with SCSS.
 
 [![Tip Calculator Preview](./images/tip-calculator-preview.jpg)](https://jordon-young.github.io/fem-tip-calculator/)
 
